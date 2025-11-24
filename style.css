@@ -39,6 +39,7 @@ body {
 
 #playerAdd, .btnAdd {
     width: 200px;
+    height: 25px;
 }
 
 ul {
