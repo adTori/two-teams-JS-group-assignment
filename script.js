@@ -51,7 +51,7 @@ btnAdd.addEventListener("click", () => {
 
 // CREATE A YELLOW LEAVE BUTTON
 const leave = document.createElement("button")
-    leave.innerText = "Leave Team"
+    leave.innerText = "Leave"
     leave.style.backgroundColor = "yellow"
 
 // CREATE A GREEN-ISH CHANGE TEAM BUTTON
@@ -62,7 +62,7 @@ const change = document.createElement("button")
 // CREATE A PINK CHANGE USERNAME BUTTON    
 const newName = document.createElement("button")
 let newInput = document.createElement("input")
-    newName.innerText = "Change Username"
+    newName.innerText = "Rename"
     newName.style.backgroundColor = "pink"
     newInput.style.width = "100px"
 
