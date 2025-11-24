@@ -1,0 +1,58 @@
+* {
+    color: black;
+}
+
+body {
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teams {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.lagA {
+    background-color: royalblue;
+}
+
+.lagB {
+    background-color: crimson;
+}
+
+.lagA, .lagB {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    padding: 8px;
+}
+
+#playerAdd, .btnAdd {
+    width: 200px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    /* list-style: none; */
+}
+
+li {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: #ffffff7f;
+    justify-content: end;
+    padding: 5px;
+
+}
+
+button {
+    margin: 5px;
+}
