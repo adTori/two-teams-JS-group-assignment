@@ -1,7 +1,7 @@
 
 <img width="1919" height="955" alt="Skärmbild 2025-11-24 110819" src="https://github.com/user-attachments/assets/aeb45b2b-c5ac-407c-ac61-282dade433f4" />
 
-// create two teams for an e-spour tournament with maximum 5 players in each team //
+// create two teams for an e-sport tournament with maximum 5 players in each team //
 
 // change a team name
 
@@ -14,7 +14,9 @@
 // create li (list items) for the players when add button is clicked
 
 // add teamplayers (maximum 10)
+
 // if more then 5 in first team, new players are put in the second team
+
 // alert if more then 10 players in total
 
 // create a yellow leave button
