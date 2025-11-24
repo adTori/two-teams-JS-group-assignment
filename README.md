@@ -1,30 +1,29 @@
-// CREATE TWO TEAMS FOR AN E-SPOUR TOURNAMENT WITH MAXIMUM 5 PLAYERS IN EACH TEAM //
+// create two teams for an e-spour tournament with maximum 5 players in each team //
 
+// change a team name
 
-// CHANGE A TEAM NAME
+// change b team name
 
-// CHANGE B TEAM NAME
+// create input for players and an add button
 
-// CREATE INPUT FOR PLAYERS AND AN ADD BUTTON
+// create ul (unordered lists) for each team
 
-// CREATE UL (UNORDERED LISTS) FOR EACH TEAM
+// create li (list items) for the players when add button is clicked
 
-// CREATE LI (LIST ITEMS) FOR THE PLAYERS WHEN ADD BUTTON IS CLICKED
+// add teamplayers (maximum 10)
+// if more then 5 in first team, new players are put in the second team
+// alert if more then 10 players in total
 
-// ADD TEAMPLAYERS (MAXIMUM 10)
-// IF MORE THEN 5 IN FIRST TEAM, NEW PLAYERS ARE PUT IN THE SECOND TEAM
-// ALERT IF MORE THEN 10 PLAYERS IN TOTAL
+// create a yellow leave button
 
-// CREATE A YELLOW LEAVE BUTTON
+// create a green-ish change team button
 
-// CREATE A GREEN-ISH CHANGE TEAM BUTTON
+// create a pink change username button    
 
-// CREATE A PINK CHANGE USERNAME BUTTON    
+// when input of a new player is added to the li, the leave button + change team button + change username button + an input for a new username, will also be added
 
-// WHEN INPUT OF A NEW PLAYER IS ADDED TO THE LI, THE LEAVE BUTTON + CHANGE TEAM BUTTON + CHANGE USERNAME BUTTON + AN INPUT FOR A NEW USERNAME, WILL ALSO BE ADDED
+// leave team when leave button is clicked
 
-// LEAVE TEAM WHEN LEAVE BUTTON IS CLICKED
+// change team when change team button is clicked
 
-// CHANGE TEAM WHEN CHANGE TEAM BUTTON IS CLICKED
-
-// CHANGE USERNAME OF A PLAYER WHEN BUTTON IS CLICKED
+// change username of a player when button is clicked
