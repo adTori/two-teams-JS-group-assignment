@@ -28,10 +28,10 @@
 
 // create a pink change username button    
 
-// when input of a new player is added to the li, the leave button + change team button + change username button + an input for a new username, will also be added
+// when the input of a new player is added, the leave button + change team button + rename button, will also be added
 
 // leave team when leave button is clicked
 
 // change team when change team button is clicked
 
-// change username of a player when button is clicked
+// change username of a player when rename button is clicked
