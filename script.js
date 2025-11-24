@@ -61,10 +61,10 @@ const change = document.createElement("button")
 
 // CREATE A PINK CHANGE PLAYER NAME BUTTON    
 const newName = document.createElement("button")
-    newName.innerText = "Change Name"
+    newName.innerText = "Change Player Name"
     newName.style.backgroundColor = "pink"
 
-// WHEN INPUT OF NEW PLAYER IS ADDED TO THE LI, THE LEAVE BUTTON + CHANGE TEAM BUTTON WILL ALSO BE ADDED
+// WHEN INPUT OF NEW PLAYER IS ADDED TO THE LI, THE LEAVE BUTTON + CHANGE TEAM BUTTON + CHANGE PLAYER NAME WILL ALSO BE ADDED
     li.innerText = newPlayer.value
     li.append(leave, change, newName)
 
